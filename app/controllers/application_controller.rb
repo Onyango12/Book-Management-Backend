@@ -118,7 +118,6 @@ class ApplicationController < Sinatra::Base
     end
     
     end
-
     # GET rating 
     get "/ratings" do
       ratings = Ratings.all
