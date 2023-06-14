@@ -14,7 +14,7 @@ This is a book recommendation API built using Ruby and Sinatra, with an ActiveRe
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/your-username/book-recommendation-api.git
+   git clone [https://github.com/your-username/book-recommendation-api.git](https://github.com/Onyango12/Book-Management-Backend-Frontend.git)
  
 2. Install the dependencies using Bundler:
     ```shell
